@@ -15,7 +15,11 @@ Sponsor - People sponsoring the event.
 Venue - People hosting the event.
 Pubicity manager - People heading publicity of the event.
 ```
+  
+</small>
 
+<small>
+  
 **Event name along with its description and other details can be changed in Event.sol. **
 ```
 Command to compile contract - truffle compile
@@ -24,5 +28,6 @@ Command to start truffle develop - truffle develop
 Command to deploy contract - truffle migrate --reset
 Command to run development environment - npm run dev
 ```
+  
 </small>
 
