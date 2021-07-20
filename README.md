@@ -6,6 +6,7 @@ Event handler application with an event head, who can select registered users fo
 
 
 <small>
+  
 **Types of roles available:**
 ```
 Participant - People attending the event.
